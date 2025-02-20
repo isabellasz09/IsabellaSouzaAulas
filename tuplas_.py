@@ -3,5 +3,5 @@ nome,data_cont,data_nasc,salario,cargo = vendas
 print(nome)
 print(data_cont)
 print(data_nasc)
-#print(salario)
+print(salario)
 print(cargo)
